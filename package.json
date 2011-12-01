@@ -13,7 +13,7 @@
         "lib": "lib"
     },
     "dependencies": {
-        "expresso": "0.7.7"
+
     },
     "scripts": {
         "test": "expresso test/*.js"
